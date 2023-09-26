@@ -19,6 +19,13 @@ or
 asdf plugin add cookiecutter
 asdf install cookiecutter latest
 
+### To start a new project, run:
+------------
+
+    cookiecutter https://github.com/GuttoF/Personal-Cookiecutter.git
+    
+------------
+
 ```
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
